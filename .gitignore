@@ -48,18 +48,9 @@ celerybeat-schedule
 .venv/
 venv/
 ENV/
-
-# Spyder project settings
 .spyderproject
-
-# Rope project settings
 .ropeproject
-
-
-# Intelija ID
 .idea/
-
-# other files
 *.json
 *.jpg
 *.jpeg
