@@ -40,23 +40,11 @@ instance/
 .webassets-cache
 .scrapy
 docs/_build/
-
-# PyBuilder
 target/
-
-# Jupyter Notebook
 .ipynb_checkpoints
-
-# pyenv
 .python-version
-
-# celery beat schedule file
 celerybeat-schedule
-
-# dotenv
 .env
-
-# virtualenv
 .venv/
 venv/
 ENV/
